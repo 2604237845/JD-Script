@@ -34,7 +34,7 @@
 ###### [GitHub仓库 https://github.com/curtinlv/JD-Script](https://github.com/curtinlv/JD-Script) 
 ###### [TG频道 https://t.me/TopStyle2021](https://t.me/TopStyle2021)
 ###### [TG群 https://t.me/topStyle996](https://t.me/topStyle996)
-###### 关注公众号【TopStyle】
+###### 关注公众号【LetGoPKC】
 ![TopStyle](https://gitee.com/curtinlv/img/raw/master/gzhcode.jpg)
 # 
     @Last Version: v1.1.0
